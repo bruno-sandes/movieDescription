@@ -1,1 +1,2 @@
-omdb==0.4.0
+request
+omdb
